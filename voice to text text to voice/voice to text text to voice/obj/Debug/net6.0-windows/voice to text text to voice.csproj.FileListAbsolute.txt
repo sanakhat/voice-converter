@@ -1,0 +1,20 @@
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\voice to text text to voice.exe
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\voice to text text to voice.deps.json
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\voice to text text to voice.runtimeconfig.json
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\voice to text text to voice.dll
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\voice to text text to voice.pdb
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\System.Speech.dll
+D:\c# practice\voice to text text to voice\voice to text text to voice\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.csproj.AssemblyReference.cache
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice_to_text_text_to_voice.Form1.resources
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.csproj.GenerateResource.cache
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.AssemblyInfoInputs.cache
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.AssemblyInfo.cs
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.csproj.CoreCompileInputs.cache
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.csproj.CopyComplete
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.dll
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\refint\voice to text text to voice.dll
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.pdb
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\voice to text text to voice.genruntimeconfig.cache
+D:\c# practice\voice to text text to voice\voice to text text to voice\obj\Debug\net6.0-windows\ref\voice to text text to voice.dll

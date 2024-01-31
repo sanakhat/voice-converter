@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngfJVIWDy3sgVWKi0azcUFdtEgX2cyqBVNuyA9pV8UPlx+SoL30DUt/XkNVFuvQ5ziLW9Jhix2E0wbsExCPFvQ==",
+  "success": true,
+  "projectFilePath": "D:\\c# practice\\voice to text text to voice\\voice to text text to voice\\voice to text text to voice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
